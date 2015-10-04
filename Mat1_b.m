@@ -4,3 +4,5 @@ help hist
 [xx, nn] = hist(x);
 bar(nn);
 print -depsc question2b.eps
+
+%first MATLAB program
